@@ -91,8 +91,3 @@ Square=Num**2
 Cube=Num**3
 print("Square:", Square)
 print("Cube:", Cube)
-
-
-
-
-
