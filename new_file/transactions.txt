@@ -1,0 +1,4 @@
+deposit,500
+withdraw,200
+deposit,150
+withdrawel , 690

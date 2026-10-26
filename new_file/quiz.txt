@@ -1,0 +1,7 @@
+1 Q)which is the capital of kerala: Thiruvananthapuram
+2 Q)which side of india is kerala: Southern part
+3 Q)how many colours are in rainbow: Seven colours
+4 Q)who is the prime minister of india: Narendra Modi
+5 Q)who is the chief minister of kerala: VD Satheeshan
+6 Q)what is the colour of sky: Blue
+7 Q)which is the capital of India: Delhi
